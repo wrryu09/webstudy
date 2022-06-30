@@ -1,5 +1,4 @@
 # webstudy
-<!doctype html>
 <html>
 
 <head>
